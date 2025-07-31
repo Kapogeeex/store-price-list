@@ -2,7 +2,7 @@
   "name": "store-price-list",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://<https://github.com/Weenyohms/store-price-list.git>",
+  "homepage": "https://<https://github.com/Kapogeee/store-price-list.git>",
   "dependencies": {
     "firebase": "^10.0.0",
     "idb-keyval": "^6.0.0",
