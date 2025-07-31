@@ -1,15 +1,15 @@
-}
+{
   "name": "store-price-list",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://<https://github.com/Kapogeee/store-price-list.git>",
+  "homepage": "https://Kapogeeex.github.io/store-price-list",
   "dependencies": {
     "firebase": "^10.0.0",
     "idb-keyval": "^6.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "supabase-js": "^2.0.0",
+    "@supabase/supabase-js": "^2.0.0",
     "uuid": "^9.0.0",
     "chart.js": "^4.0.0",
     "react-chartjs-2": "^5.0.0",
